@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true narrative of the proceedings at the sessions-house in the Old-Bayly which began on Wednesday the 6th of this instant July 1681. and ended on Fryday the 8th following With an account of what passed in relation to the Earl of Shaftsbury, with the Lord Howard of Eserick, and John Rouse, &amp;c. and of the indictment for high-treason preferred against Stephen Colledge, as also the names of such as are concerned to dye, burnt in the hand, to be transported and whipped.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95110</idno>
+            <idno type="STC">Wing T2829A</idno>
+            <idno type="STC">ESTC R229872</idno>
+            <idno type="EEBO-CITATION">99895541</idno>
+            <idno type="PROQUEST">99895541</idno>
+            <idno type="VID">153019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95110)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153019)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2340:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true narrative of the proceedings at the sessions-house in the Old-Bayly which began on Wednesday the 6th of this instant July 1681. and ended on Fryday the 8th following With an account of what passed in relation to the Earl of Shaftsbury, with the Lord Howard of Eserick, and John Rouse, &amp;c. and of the indictment for high-treason preferred against Stephen Colledge, as also the names of such as are concerned to dye, burnt in the hand, to be transported and whipped.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by D. Mallet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Colledge, Stephen, 1635?-1681 --  Early works to 1800.</term>
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683 --  Early works to 1800.</term>
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+               <term>Treason --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153019:1" rendition="simple:additions"/>
+            <head>THE TRUE NARRATIVE OF THE PROCEEDINGS AT The Seſſions-Houſe IN THE OLD-BAYLY Which began on <hi>Wedneſday</hi> the 6th of this Inſtant <hi>July</hi> 1681. and ended on <hi>Fryday</hi> the 8th following.</head>
+            <head type="sub">With an account of what paſſed in Relation to the <hi>Earl</hi> of <hi>Shaftsbu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> with the Lord <hi>Howard</hi> of <hi>Eſcrick,</hi> and <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hn Rouſe, &amp;c.</hi> and of the Indictment for High-Treaſon preferred againſt <hi>Stephen Colledge,</hi> as alſo the Names of ſuch as are concerned to Dye, Burnt in the Hand, to be Tranſported and whipped.</head>
+            <p>
+               <hi>JOhn H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, James Hull,</hi> and <hi>Hugh Jones,</hi> were all three Indicted for ſtealing 17 Pieces of Broad Gold, which on the Twentieth of <hi>June</hi> laſt they picked out of a Gentlewomans Pocket as ſhe was ſtanding in St. <hi>Georges Fields:</hi> So that the Robbery being done in another County, it could be laid as only a Felony in <hi>Middleſex.</hi> But the Cir<g ref="char:EOLhyphen"/>cumſtances as they appeared in Court were theſe, ſhe finding her Money gone, went to the Thief takers, and for a promiſed Reward, got them to bring ſeveral Pick-pockets to ſee if any of them were thoſe ſhe ſuſpected, amongſt which the two former were brought, whom ſhe preſently remembred to have ſeen at the time ſhe loſt her Gold, and charged them to have taken it, whereupon one of them
+<pb n="2" facs="tcp:153019:2"/>conveyed 15 pieces under the Carpet, and then bid her look, per<g ref="char:EOLhyphen"/>haps it might be there, which ſhe did and ſound the 15 pieces, as for the other three they deſired her to be ſilent, and they would make her ſatisfaction that night. Theſe their Confeſſions, and the Evi<g ref="char:EOLhyphen"/>dence of one of their Gang, with the corroborating Evidence of the Proſecuroy, were ſuch plain proofs that the Jury found the two for<g ref="char:EOLhyphen"/>mer Guilty, but as for the latter he being only taken in their Com<g ref="char:EOLhyphen"/>pany was acquitted.</p>
+            <p>
+               <hi>Elizabeth Wolf, Ann Smith,</hi> and <hi>Mary Roly,</hi> were Arraigned In<g ref="char:EOLhyphen"/>dicted and Tryed, for ſtealing about 20 yards of <hi>Indian Silk.</hi> out of the Shop of one <hi>Frantis Tryerwood</hi> a Mercer in <hi>Cornhill,</hi> under pre<g ref="char:EOLhyphen"/>tence of coming into his Shop to buy 4 or 5 yards; one of the three the mean while ſtanding purdue, received it of the other two when they came out: but the Silk being miſſed they were purſued and all three of them taken. Upon their Tryals they ſtrove to ſhift it off one to another: ſhe that ſtood without pretending that the other were ſtrangers to her, and that they only hired her to carry it for them, but they being notoriouſly known to be old Traders, the Jury found them all guilty of the Fellony.</p>
+            <p>One <hi>William Leaner</hi> a Taylor living in <hi>Whitechappel,</hi> was Indicted for Killing <hi>John Churchporch,</hi> a young youth, and lately his Appren<g ref="char:EOLhyphen"/>tice, by exceſſive beating. It being Sworn againſt him that he was uſed to beat him unmercifully, and the Neighbours many times heard him cry out, but more eſpecially at this time when he received the bruſes of which it was ſuppoſed he dyed. And another youth that worked in the houſe atteſted that he ſaw the Priſoner fell him to the ground. and afterwards take him by the hands and ſqulch him againſt the ground. The Chyrurgions that opened him, likewiſe affirmed he had a great deal of corrupted Blood and water in his body; but it appearing he lived about Nine weeks after, and was ſome times pret<g ref="char:EOLhyphen"/>ty well, the Jury brought the Priſoner in Nor Gulty.</p>
+            <p>
+               <hi>Willam Buckle</hi> Servant to <abbr>Eſq</abbr> B. took his Tryal upon his In<g ref="char:EOLhyphen"/>dictment for Murthering one <hi>William Chenchit</hi> a Marſhals Bailiffs Follower. The Circumſtances according as they were Sworn in Court being thus, The Priſoner riding before his Maſters Coach with a pair of Piſtols in. his Holſters, ſeeing a man ſtop the Coach-Horſes, but as he ſaid he knew not upon what occaſion, charged him to let them go, which he refuſing, the Priſoner fired a Piſtol, but without doing Execution, and then Riding up to the Coach found the Bailiff's had Seiſed his Maſter, ſo inraged him, that Riding back to him that held the Horſes Bride, he delivered another Piſtol at him, which forced a Brace of Bullets in at the right ſide of his Belly five or ſix Inches, at which he ſcreamed out he was killed, but ſpoke not after, for in leſs than half an hour he dyed. The Priſoner pleaded that the Deceaſed offered to ſtrike him with a gaeat ſtick he had in his hand, which he endeavouring to put by with his Piſtol, it went off unawares. But the Evinence being plain and poſitive he was found guilty of the Murther.</p>
+            <pb n="3" facs="tcp:153019:2" rendition="simple:additions"/>
+            <p>
+               <hi>Samuel Rumny</hi> being Indicted for having two Wives, to which he was Lawfully marryed, he pleaded Guilty to his Indictment, alleadg<g ref="char:EOLhyphen"/>ing ſhe that P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hſecuted him whom he laſt Marryed at <hi>Boſton</hi> in New <hi>England</hi> had been the occaſion of his offending againſt the Law, by her Laſcivious and wicked practiſes, and that ſince his being marryed to her, ſhe had endeavoured to take away his Life by ſundry means.</p>
+            <p>
+               <hi>Thomas Gibſon</hi> and <hi>Robert Hawkſon,</hi> two notorious Foot-pads were Indicted, For that they in the Company of one <hi>Richardſon</hi> (who confeſſed the Robbery) and one more, about the 19th of <hi>May</hi> laſt; ſet upon one <hi>Edward Betts</hi> near <hi>Newington Butts,</hi> and after they had Barbarouſly uſed him, Robbed him of Goods to the value of 12 pound the proof was plain againſt againſt them, nor could they well deny it, only pleading that they were unadviſedly drawn in, and knew no<g ref="char:EOLhyphen"/>thing of any Robbery intended, but after the charge given, the Jury found them Guilty.</p>
+            <p>The Grand Jury for <hi>London</hi> being ordered to attend the Court had this day, being the 8th of <hi>July</hi> (after ſome Objection made againſt Three of them by Mr. Attorny General) had a Bill delivered to them containing an Indictment for High Treaſon againſt <hi>Stephen Colledg,</hi> which by order of Court was read, in which were contained ſeve<g ref="char:EOLhyphen"/>ral treaſonable practiſes by him deviſed and maintained to deſtroy the Life of the King, as endeavouring to levy War, and raiſe rebellious Arms to ſeiſe upon His Majeſties Perſon, and him to Depoſe and Murrher, which being read, Mr. Attorny deſired that the Witneſſes might be Examined in open Court, which was granted, and their names as follows, Mr. <hi>Stephen Dugdale,</hi> Mr. <hi>Bryan Haynes,</hi> Mr. <hi>John Macknamarow,</hi> Mr. <hi>Dennis Macknamarow,</hi> Sir <hi>William Gennings,</hi> and Mr. <hi>Smith</hi> gave Teſtimony upon Oath, that being in the com<g ref="char:EOLhyphen"/>pany of the aforeſaid <hi>Stephen Colledge</hi> about the 10th of <hi>March</hi> laſt, he declared to him that there was a Deſign on foot to ſeiſe the King at <hi>Oxford,</hi> and that himſelf was to be one concerned in the enterprize, and for that end he had prepared himſelf not only Weapons but Ar<g ref="char:EOLhyphen"/>mour, as Back, Breaſt, Head, <hi>&amp;c.</hi> Blunderbuſs, Piſtols, and the like, which he ſhewed to the Witneſs, &amp;c. and declared ſeveral other treaſonable practices were to be promoted, to which all the Wit<g ref="char:EOLhyphen"/>neſſes âccorded in point of Evidence, ſo that the Indictment being preſented to the Grand Jury of <hi>London,</hi> They after four hours con<g ref="char:EOLhyphen"/>ſult, and Examining the Witneſſes over again in private returned it <hi>Ignoramus.</hi>
+            </p>
+            <p>
+               <hi>Wedneſday</hi> being the firſt day of the Seſſions, the Earl of <hi>Shaftsbu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> my Lord <hi>Howard</hi> of <hi>Eſchrick, Stephen Col<g ref="char:EOLhyphen"/>ledge, John Rouſe,</hi> and <hi>William Hetherington,</hi> the firſt being Committed to the Tower of <hi>London,</hi> and the laſt to <hi>New<g ref="char:EOLhyphen"/>gate,</hi>
+               <pb n="4" facs="tcp:153019:3"/>for High Treaſon: put up their Petitions to the Court either to be Proceeded againſt or Bailed according to the Act, <hi>For Securing the Liberty of the Subject.</hi> And at the Cloſing of the Seſſions their Counſel moved it to the Court, but it was all the Judges Opinion that they could not Bail thoſe in the Tower, that not being comprehended within the Commiſſion <hi>Oyer</hi> and <hi>Terminer:</hi> But as for the laſt, <hi>viz. Hetherington,</hi> he being in <hi>Newgate</hi> Bail was ordered to be taken for him.</p>
+            <p>
+               <hi>Thomas Cook</hi> was Indicted for ſtealing a Silver Tankard, 1 Coat, 2 Perukes, a Cloak, and 13 pounds in Mony from one Mr. <hi>Smith</hi> in <hi>Broadſtreet</hi> on the 13th of <hi>December</hi> laſt, one of the Perukes being taken upon his head, and ſufficient proof made againſt him he was found Guilty.</p>
+            <p>
+               <hi>John King</hi> was likewiſe found Guilty for picking the pocket of one Mr. <hi>Prichet</hi> in St. <hi>Martins</hi> Church, the mony being taken upon him ere he could eſcape.</p>
+            <p>
+               <hi>John Plat</hi> was Indicted and Tryed for breaking into the Houſe of <hi>James Holms</hi> living in the Pariſh of <hi>Hornſey,</hi> and taking thence in Plate, Cloths and monys to the worth of 50 <abbr>
+                  <hi>l.</hi>
+               </abbr> the Witneſs Swore point Blanck againſt him, and though he made ſeveral ſlight Excuſes he was found Guilty.</p>
+            <p>At this moſt remarkable Seſſions were 9 perſons that re<g ref="char:EOLhyphen"/>ceived Sentence of Death<g ref="char:punc">▪</g> 6 men and 3 Women, <hi>viz John King, John Plat, Will<g ref="char:punc">▪</g> Buckly, Will. Richardſon, Tho. Gibſon,</hi> and <hi>Rebert Hawkſon, Mary Roly, Ann Smith,</hi> and <hi>Eliz Wolf.</hi> 3 to be Tranſported, 4 burnt in the hand, and 3 to be whipped, and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> concluded.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> D. Mallet.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
